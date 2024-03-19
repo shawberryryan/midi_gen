@@ -1,0 +1,5 @@
+# Ignore MIDI files
+*.mid
+
+# Ignore PNG files
+*.png
