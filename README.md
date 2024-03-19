@@ -17,7 +17,7 @@ An additional model has been conceptualized but not yet tested:
 Diffusion Model: Intended to gradually build up a distribution of MIDI images starting from noise, this model promises to add an innovative approach to generating music once implemented.
 
 The inputs take the following form
-![Alt text](/ashover_9 "Optional title")
+![Alt text](/ashover9.png "Optional title")
 
 Our GAN offered the best results, producing the following midi images after 300 epochs
 ![Alt text](/fake_image_epoch_300.png "Optional title")
